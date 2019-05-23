@@ -1,0 +1,29 @@
+/* Add your own CSS rules here */
+#description {
+  margin: 0 0 1em 0;
+}
+
+tei-teiHeader {
+  display: none;
+}
+
+tei-dateline {
+  color: grey;
+  text-align: right;
+  display: block;
+  width: 500px;
+  font-style: italic;
+}
+
+tei-persName {
+  color: lightgreen;
+  font-style: bold;
+}
+
+tei-placeName {
+  color: violet;
+  font-style: bold;
+}
+
+tei-postscript::before
+  {content: "Postscript:"}
