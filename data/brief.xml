@@ -198,7 +198,7 @@
                vorzeigen, <lb xml:id="I_7-18"/>um alle Kollegien geschenkt zu bekommen: besonders
                viel hat mir <lb xml:id="I_7-19"/>dieses Zeugnis bei Prof. Platner geholfen, der die
                   Ph<metamark>[</metamark>ilosophie<metamark>]</metamark> ser
-                        <persName> Ernst <name type="reg">Platner</name>
+                        <persName ref="http://viaf.org/viaf/5333336"> Ernst <name type="reg">Platner</name>
                         </persName>
                <lb n="20" xml:id="I_7-20"/>liebt. — Dies sind lauter unbedeutende Dinge: aber ich
                habe iezt <lb xml:id="I_7-21"/>nichts anders zu schreiben, und wenn ich der
@@ -227,6 +227,10 @@
                </salute>
             </closer>
             <lb xml:id="I_7-32"/>
+            <figure>
+               <graphic url="RichterJP.jpg"/>
+               <figDesc>Bildnis von Jean Paul Richter</figDesc>
+            </figure>
             <postscript>
                <p>Ich war neulich, da <metamark>[</metamark>ich<metamark>]</metamark> mich von al
                   meinen Freunden in Schwar
